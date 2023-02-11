@@ -5,7 +5,7 @@
   background-color: #1E1F29;
   color: #FFF;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .header-top {
     display: none;
   }
@@ -34,7 +34,7 @@
   justify-content: space-between;
   padding: 1.3rem 0;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .main-header-container {
     flex-direction: column;
     align-items: center;
@@ -57,7 +57,7 @@
   justify-content: center;
   width: 45%;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .main-header #search-form {
     width: 100%;
     margin: 2rem 0;
@@ -121,7 +121,7 @@
   justify-content: left;
   padding: 1rem 0;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .header-bottom ul {
     display: none;
   }
@@ -145,7 +145,7 @@
   justify-content: space-between;
   padding: 3rem 0;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .banners {
     flex-direction: column;
     align-items: center;
@@ -164,7 +164,7 @@
   font-size: 2rem;
   text-transform: uppercase;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .products-grid h2 {
     text-align: center;
   }
@@ -174,7 +174,7 @@
   justify-content: space-between;
   padding: 2rem 0;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .products-grid-container {
     flex-direction: column;
     align-items: center;
@@ -191,7 +191,7 @@
   height: 400px;
   padding: 2rem;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .deal-container {
     background-size: 70%;
     background-position-y: 130%;
@@ -209,7 +209,7 @@
   justify-content: space-between;
   justify-content: center;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .deal-container-content {
     text-align: center;
   }
@@ -218,7 +218,7 @@
   display: flex;
   margin-bottom: 2rem;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .deal-container-content-timer {
     flex-wrap: wrap;
     align-self: center;
@@ -237,7 +237,7 @@
   color: #FFF;
   margin: 0 1rem;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .deal-container-content .deal-container-timer {
     margin-bottom: 1.5rem;
   }
@@ -264,7 +264,7 @@
   padding: 3rem;
   border-top: 2px solid #E4E7ED;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .newsletter-container {
     text-align: center;
   }
@@ -283,7 +283,7 @@
   display: flex;
   margin-bottom: 3rem;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .newsletter-container form {
     width: 100%;
   }
@@ -295,7 +295,7 @@
   border-bottom-left-radius: 20px;
   padding-left: 25px;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .newsletter-container form input[type=email] {
     width: 100%;
   }
@@ -317,7 +317,7 @@
   background-color: #15161d;
   padding: 3rem 0;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .footer {
     padding: 3rem;
   }
@@ -347,7 +347,7 @@
   justify-content: space-between;
   padding-bottom: 3rem;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .footer-top {
     flex-direction: column;
   }
@@ -355,7 +355,7 @@
 .footer-top-about, .footer-top-categories, .footer-top-information, .footer-top-menu {
   max-width: 25%;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .footer-top-about, .footer-top-categories, .footer-top-information, .footer-top-menu {
     max-width: 100%;
     margin-bottom: 1rem;
@@ -417,7 +417,7 @@
   background-size: cover;
   background-size: 100%;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .banner {
     width: 90%;
     margin: 1rem;
@@ -483,7 +483,7 @@
   text-align: center;
   flex-direction: column;
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .products-grid-card {
     width: 90%;
     margin: 1rem;
